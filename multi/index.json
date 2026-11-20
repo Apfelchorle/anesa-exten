@@ -14,8 +14,8 @@
     ],
     "url": "aHR0cHM6Ly9uZWtvYnQudG8vYXBpL3YxLw==",
     "icon": "https://nekobt.to/cdn/pfp/null/64",
-    "update": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/multi/index.json",
-    "code": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/multi/nekobt.js",
+    "update": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/multi/index.json",
+    "code": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/multi/nekobt.js",
     "options": {
       "language": {
         "type": "select",
@@ -115,8 +115,8 @@
       "ALL"
     ],
     "icon": "https://animetosho.xyz/static/favicon.ico",
-    "update": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/multi/index.json",
-    "code": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/multi/animetoshonew.js",
+    "update": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/multi/index.json",
+    "code": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/multi/animetoshonew.js",
     "options": {
       "useTorrent": {
         "type": "boolean",

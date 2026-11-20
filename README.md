@@ -11,7 +11,7 @@ Forked from:
 
 ## Usage
 Manifests currently point `code`/`update` to:
-`https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main`
+`https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master`
 
 If you host this repo elsewhere, replace that base URL in `multi/index.json` and `nzb/index.json`.
 

@@ -12,8 +12,8 @@
       "US"
     ],
     "icon": "https://animetosho.xyz/static/favicon.ico",
-    "update": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/nzb/index.json",
-    "code": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/nzb/animetosho-nzb-new.js"
+    "update": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/nzb/index.json",
+    "code": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/nzb/animetosho-nzb-new.js"
   },
   {
     "manifestVersion": 2,
@@ -29,8 +29,8 @@
       "ALL"
     ],
     "icon": "https://amenzb.moe/static/posters/ame.png",
-    "update": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/nzb/index.json",
-    "code": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/nzb/amenzb.js",
+    "update": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/nzb/index.json",
+    "code": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/nzb/amenzb.js",
     "options": {
       "ameapi": {
         "type": "string",
@@ -53,8 +53,8 @@
       "ALL"
     ],
     "icon": "https://aninzb.moe/favicon.ico",
-    "update": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/nzb/index.json",
-    "code": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/nzb/aninzb.js"
+    "update": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/nzb/index.json",
+    "code": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/nzb/aninzb.js"
   },
   {
     "manifestVersion": 2,
@@ -69,7 +69,7 @@
       "ALL"
     ],
     "icon": "https://tsukihime.org/favicon.ico",
-    "update": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/nzb/index.json",
-    "code": "https://raw.githubusercontent.com/apfelchorle/hayase-extensions/main/nzb/tsukihime.js"
+    "update": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/nzb/index.json",
+    "code": "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/nzb/tsukihime.js"
   }
 ]
