@@ -1,0 +1,75 @@
+[
+  {
+    "manifestVersion": 2,
+    "name": "AnimeTosho NZB (New)",
+    "id": "animetosho-nzb-new",
+    "version": "0.0.7",
+    "type": "nzb",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "both",
+    "languages": [
+      "US"
+    ],
+    "icon": "https://animetosho.xyz/static/favicon.ico",
+    "update": "https://exten.pages.dev/nzb/index.json",
+    "code": "https://exten.pages.dev/nzb/animetosho-nzb-new.js"
+  },
+  {
+    "manifestVersion": 2,
+    "name": "ameNZB",
+    "id": "amenzb",
+    "version": "0.0.5",
+    "type": "nzb",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "both",
+    "url": "aHR0cHM6Ly9hbWVuemIubW9lL2FwaQ==",
+    "languages": [
+      "ALL"
+    ],
+    "icon": "https://amenzb.moe/static/posters/ame.png",
+    "update": "https://exten.pages.dev/nzb/index.json",
+    "code": "https://exten.pages.dev/nzb/amenzb.js",
+    "options": {
+      "ameapi": {
+        "type": "string",
+        "description": "AmeNZB API Key, you can get one for free by registering on their website",
+        "default": ""
+      }
+    }
+  },
+  {
+    "manifestVersion": 2,
+    "name": "aninzb",
+    "id": "aninzb",
+    "version": "0.0.2",
+    "type": "nzb",
+    "accuracy": "medium",
+    "ratio": 0,
+    "media": "both",
+    "url": "aHR0cHM6Ly9hbmluemIubW9lL2FwaQ==",
+    "languages": [
+      "ALL"
+    ],
+    "icon": "https://aninzb.moe/favicon.ico",
+    "update": "https://exten.pages.dev/nzb/index.json",
+    "code": "https://exten.pages.dev/nzb/aninzb.js"
+  },
+  {
+    "manifestVersion": 2,
+    "name": "TsukiHime",
+    "id": "tsukihime",
+    "version": "0.0.5",
+    "type": "nzb",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "both",
+    "languages": [
+      "ALL"
+    ],
+    "icon": "https://tsukihime.org/favicon.ico",
+    "update": "https://exten.pages.dev/nzb/index.json",
+    "code": "https://exten.pages.dev/nzb/tsukihime.js"
+  }
+]
