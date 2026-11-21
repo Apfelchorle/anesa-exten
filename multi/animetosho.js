@@ -820,7 +820,7 @@ function hitsExclusion(title, exclusions) {
 
 // src/animetosho.js
 var SOURCE_DEFAULT = "high";
-var BASE = "https://feed.animetosho.org/json";
+var BASE = "https://feed.animetosho.net/json";
 var MAPPING_URL = "https://raw.githubusercontent.com/Apfelchorle/anesa-exten/master/data/anilist-to-anidb.json";
 var mappingCache = null;
 var mappingPromise = null;

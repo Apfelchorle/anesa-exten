@@ -149,7 +149,7 @@
     "manifestVersion": 2,
     "name": "AnimeTosho",
     "id": "anitorrent.animetosho",
-    "version": "1.0.30",
+    "version": "1.0.31",
     "type": "torrent",
     "accuracy": "high",
     "updatePeers": false,
